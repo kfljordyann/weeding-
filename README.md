@@ -62,3 +62,5 @@ src/
 | Fond sombre | `#231A1C` (encre) |
 | Accent principal | `#5C1A34` (bordeaux) |
 | Accent doré | `#C6A15B` (or) |
+
+ da99323dc6434e7614876ddc72402faf9c0852bb
